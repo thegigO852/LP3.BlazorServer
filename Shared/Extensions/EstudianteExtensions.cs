@@ -1,6 +1,11 @@
 namespace LP3.Shared.Extensions;
+<<<<<<< HEAD
 using LP3.Domain.Entities;
 using LP3.Shared.DTOs;
+=======
+using LP3.BlazorServer.Domain.Entities;
+using LP3.BlazorServer.Shared.DTOs;
+>>>>>>> 5588efae4a35a42fc15e9c6146a8cf14d7d3eeeb
 
 /// <summary>
 /// Métodos de conversión entre Entidad y DTO.
