@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 using LP3.Domain.Enums;
 
-=======
->>>>>>> 5588efae4a35a42fc15e9c6146a8cf14d7d3eeeb
 namespace LP3.Domain.Entities;
 
 public class Estudiante
