@@ -1,4 +1,4 @@
-namespace LP3.Domain.Constants;
+namespace LP3.BlazorServer.Domain.Constants;
 
 /// <summary>
 /// Reglas y límites del dominio académico.
