@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-using LP3.Domain.Enums;
 
-=======
->>>>>>> 5588efae4a35a42fc15e9c6146a8cf14d7d3eeeb
+using LP3.BlazorServer.Domain.Enums;
 namespace LP3.Shared.DTOs;
 
 /// <summary>DTO para mostrar estudiantes en listados.</summary>

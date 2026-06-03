@@ -1,4 +1,4 @@
-using LP3.Domain.Entities;
+using LP3.BlazorServer.Domain.Entities;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
